@@ -1,7 +1,0 @@
-Session 1: High Level Idea about different AWS services
-There are 3 major cloud providers: Aws, Azure and GCP. We cant learn all the services from all the clouds, however, we can surely learn the main services and then as per the job requirment and company requirements we can learn the tools needed on the go or on job. Nobody can actually learn all the services so we should learn the services that are required on the job.
-The main 5 to 6 services that you learn should be able to serve your purpose as a data engg.
-There are few main services when it comes to aws: a. Athena and EC2 b. EMR c. Glue d. Redshift f. Lambda g. S3
-We will be talking about the details of all the services as we go further in the course.
-We should have a high level idea about all the services.
-Go to amazon aws console and then you can search all the services from there.
